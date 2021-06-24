@@ -1,9 +1,9 @@
 # Hey There 👋
-My name is *Sandro Tavares🙃 i'm from brazil, i'm going to become a self taught **programmer* 💻 but i have to start from the beginning, now i am leaning html css, and i am doing some projects to help me learn faster !
-
-# i Have to learn 📚
 > Always Look On The Bright Side Of Life
 > 
+My name is **Sandro Tavares🤵** i'm from brazil, i'm going to become a self taught **programmer** 💻 but i have to start from the beginning, now i am leaning html css, and i am working on some projects to help me learn faster !
+
+# i Have to learn 📚
 to make my dream come true i have to learn this : ✍️
  - [ ] *Logic Programming*
  - [ ] *Java Script*
