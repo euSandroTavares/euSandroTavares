@@ -12,8 +12,10 @@ to make my dream come true i have to learn this : ✍️
 **Go follow me everywere** 🤳 
 here are some of my main social medias 
 <p align="center">
-[<img align="center" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCjIf4KZzL4Pd0iaaZpLJ2lw)
-[<img align="center"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://mobile.twitter.com/euSandr0)
+<a href="https://www.youtube.com/channel/UCjIf4KZzL4Pd0iaaZpLJ2lw">
+<img align="center" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />(https://www.youtube.com/channel/UCjIf4KZzL4Pd0iaaZpLJ2lw)
+ </a>
+ <img align="center"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />(https://mobile.twitter.com/euSandr0)
 </p>
 <p align="center">
 <a href="https://github.com/teteusAraujo">
